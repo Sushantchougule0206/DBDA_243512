@@ -1,0 +1,4 @@
+Cloud computing is computing paradigm which provides various services like sever,infrastructure platform,security,storage etc. which we can access virtually.
+There are three types of cloud architectures are present Public cloud, Private cloud, Hybrid cloud.
+Amazon,Micorsoft,Google,Heroku are the top companies currently providing cluod computing services.
+There are mainly three types of services of cloud are rightnow present in market Iaas,Paas,Saas. 
